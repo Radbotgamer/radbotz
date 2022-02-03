@@ -121,3 +121,6 @@ For Help | Owner Chikabot |
 [Adiwajshing](https://github.com/adiwajshing) | [Fabil](https://github.com/xfar05)
 Owner of Baileys | Owner of X-Far api |
 
+##deploy
+
+
